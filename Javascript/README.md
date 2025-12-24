@@ -1,0 +1,1 @@
+Here are basics of javascript

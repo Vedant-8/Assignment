@@ -1,0 +1,1 @@
+Here are basic commands of sql
